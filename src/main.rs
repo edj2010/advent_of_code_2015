@@ -3,6 +3,8 @@
 mod day_1;
 mod day_2;
 mod day_3;
+mod day_4;
+mod day_5;
 
 #[allow(dead_code)]
 const YEAR: &str = "2015";
